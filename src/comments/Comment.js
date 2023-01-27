@@ -1,5 +1,5 @@
 import React from 'react'
-//Just a comment
+//Just a dummy comment
 export default class Comment extends React.Component{
     render(){
         return(
